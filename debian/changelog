@@ -1,4 +1,4 @@
-ceibal-updates (0.1) tatu; urgency=high
+ceibal-update (0.1) tatu; urgency=high
 
   * Incluye ceibal-pam-auth.
 

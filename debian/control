@@ -12,5 +12,6 @@ Architecture: all
 Depends: ${misc:Depends},${ceibal:Depends}
 Conflicts: ${ceibal:Removes}
 Replaces: ${ceibal:Removes}
-Description: Metapackage para actualizacion de equipos Ceibal
+Description: Metapaquete para actualizacion de equipos Ceibal.
  Lista dependencias a paquetes con actualizaciones para equipos Ceibal.
+ -- metapackage.
