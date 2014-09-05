@@ -1,0 +1,16 @@
+Source: ceibal-update
+Section: admin
+Priority: required
+Maintainer: Santiago Aguiar <santiago.aguiar@gmail.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.5
+Vcs-Git: git://github.com/ceibal-tatu/ceibal-update.git
+Vcs-Browser: https://github.com/ceibal-tatu/ceibal-update
+
+Package: ceibal
+Architecture: all
+Depends: ${misc:Depends},${ceibal:Depends}
+Conflicts: ${ceibal:Removes}
+Replaces: ${ceibal:Removes}
+Description: Metapackage para actualizacion de equipos Ceibal
+ Lista dependencias a paquetes con actualizaciones para equipos Ceibal.

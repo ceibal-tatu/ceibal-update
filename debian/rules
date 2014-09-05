@@ -1,0 +1,14 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+INSTALLS=$(shell sed 'N;s/\n/,/' debian/install-packages)
+REMOVES=$(shell sed 'N;s/\n/,/' debian/remove-packages)
+
+%:
+	dh $@ 
+
+override_dh_gencontrol:
+	dh_gencontrol -- -Vceibal:Depends="${INSTALLS}" -Vceibal:Removes="${REMOVES}"
