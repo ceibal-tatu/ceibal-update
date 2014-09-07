@@ -7,7 +7,7 @@ Standards-Version: 3.9.5
 Vcs-Git: git://github.com/ceibal-tatu/ceibal-update.git
 Vcs-Browser: https://github.com/ceibal-tatu/ceibal-update
 
-Package: ceibal
+Package: ceibal-update
 Architecture: all
 Depends: ${misc:Depends},${ceibal:Depends}
 Conflicts: ${ceibal:Removes}
