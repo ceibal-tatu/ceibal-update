@@ -4,8 +4,8 @@
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
 
-INSTALLS=$(shell sed 'N;s/\n/,/' debian/install-packages)
-REMOVES=$(shell sed 'N;s/\n/,/' debian/remove-packages)
+INSTALLS=$(shell paste -s -d ',' debian/install-packages)
+REMOVES=$(shell paste -s -d ',' debian/remove-packages)
 
 %:
 	dh $@ 
