@@ -1,2 +1,3 @@
+tatu-repo-update (>=0.2)
 ceibal-pam-auth (>=0.1)
 tatu-hello (>=0.1)
