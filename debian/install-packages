@@ -1,3 +1,3 @@
 tatu-repo-update (>=0.2)
 ceibal-pam-auth (>=0.1)
-tuxpaint (>=0.9.22)
+tuxpaint (>=1:0.9.22)
