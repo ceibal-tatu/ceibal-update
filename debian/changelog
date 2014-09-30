@@ -1,3 +1,9 @@
+ceibal-update (0.5) tatu; urgency=medium
+
+  * Version de tuxpaint actualizada. 
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Tue, 30 Sep 2014 09:03:15 -0300
+
 ceibal-update (0.4) tatu; urgency=medium
 
   * Incluye tuxpaint. 
