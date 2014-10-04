@@ -1,3 +1,9 @@
+ceibal-update (0.7) tatu; urgency=medium
+
+  * Version de fix-tuxpaint-activity actualizada. 
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sat, 04 Oct 2014 11:40:46 -0300
+
 ceibal-update (0.6) tatu; urgency=medium
 
   * Include fix-tuxpaint-activity. 
