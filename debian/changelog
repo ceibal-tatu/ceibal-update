@@ -1,3 +1,9 @@
+ceibal-update (0.8) tatu; urgency=medium
+
+  * Version de sugar actualizada. 
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 05 Oct 2014 22:15:52 -0200
+
 ceibal-update (0.7) tatu; urgency=medium
 
   * Version de fix-tuxpaint-activity actualizada. 
