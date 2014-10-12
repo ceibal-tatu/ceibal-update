@@ -1,4 +1,4 @@
-tatu-repo-update (>=0.2)
+tatu-repo-update (>=0.5)
 ceibal-pam-auth (>=0.1)
 tuxpaint (>=1:0.9.22)
 fix-tuxpaint-activity (>=0.3)
