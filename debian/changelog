@@ -1,3 +1,9 @@
+ceibal-update (0.18) tatu; urgency=medium
+
+  * Version de tatu-repo-update actualizada a 0.9. 
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 09 Nov 2014 19:17:49 -0200
+
 ceibal-update (0.17) tatu; urgency=medium
 
   * Re-agrega test-large-package. 
