@@ -1,3 +1,9 @@
+ceibal-update (0.22) tatu; urgency=medium
+
+  * Removed all dependencies from package. 
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Mon, 06 Jul 2015 15:54:39 -0300
+
 ceibal-update (0.21) tatu; urgency=medium
 
   * Incluye google-chrome-stable. 
